@@ -1,7 +1,0 @@
-C:\Users\Uxq\source\repos\Лаба№2\Лаба№2\bin\Debug\Лаба№2.exe.config
-C:\Users\Uxq\source\repos\Лаба№2\Лаба№2\bin\Debug\Лаба№2.exe
-C:\Users\Uxq\source\repos\Лаба№2\Лаба№2\bin\Debug\Лаба№2.pdb
-C:\Users\Uxq\source\repos\Лаба№2\Лаба№2\obj\Debug\Лаба№2.csproj.AssemblyReference.cache
-C:\Users\Uxq\source\repos\Лаба№2\Лаба№2\obj\Debug\Лаба№2.csproj.CoreCompileInputs.cache
-C:\Users\Uxq\source\repos\Лаба№2\Лаба№2\obj\Debug\Лаба№2.exe
-C:\Users\Uxq\source\repos\Лаба№2\Лаба№2\obj\Debug\Лаба№2.pdb
