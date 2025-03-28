@@ -38,6 +38,8 @@ namespace Lab2
             {
                 Console.WriteLine("Недопустимое значение");
             }
+            Console.ReadKey();
         }
+
     }
 }

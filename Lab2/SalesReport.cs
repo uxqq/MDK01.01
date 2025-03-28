@@ -10,7 +10,7 @@ namespace Lab2
     public class SalesReport
     {
         private List<SalesRealization> salesRealizations;
-        
+
         public SalesReport()
         {
             salesRealizations = new List<SalesRealization>();
