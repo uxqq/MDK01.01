@@ -17,7 +17,7 @@ namespace Lab2
             report.AddSale(new SalesRealization(2, new Game("The Elder Scrolls V: Skyrim", 1391.00, 5, Genre.RPG)));
             report.AddSale(new SalesRealization(2, new Game("Grand Theft Auto V", 1449.00, 14, Genre.Action)));
             report.AddSale(new SalesRealization(3, new Game("Tomb Raider", 1069.00, 16, Genre.Adventure)));
-            report.AddSale(new SalesRealization(3, new Game("The Elder Scrolls V: Skyrim", 1391.00, 5, Genre.RPG)));
+            report.AddSale(new SalesRealization(3, new Game("Baldur's Gate III", 1424.43, 5, Genre.RPG)));
 
             int reportType;
             Console.WriteLine("Выберите вид отчёта (0 - весь, 1 - по дням, 2 - по жанрам): ");

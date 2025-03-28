@@ -28,7 +28,9 @@ namespace Lab2
             {
                 var game = realization.GetGame();
 
-                Console.WriteLine($"День: {realization.GetDay()}, Название игры: {game.GetName()}, Жанр: {game.GetGenre()}, цена: {game.GetPrice()}, количество: {game.GetQuantity()}, выручка от игры: {game.GetPrice() * game.GetQuantity()}");
+                Console.WriteLine($"День: {realization.GetDay()}, Название игры: {game.GetName()}" +
+                    $", Жанр: {game.GetGenre()}, цена: {game.GetPrice()}, количество: {game.GetQuantity()}" +
+                    $", выручка от игры: {game.GetPrice() * game.GetQuantity()}");
                 totalRevenue += game.GetQuantity() * game.GetPrice();
             }
             Console.WriteLine($"Общая выручка: {totalRevenue}");
@@ -45,7 +47,9 @@ namespace Lab2
                 var game = realization.GetGame();
                 if (day == realization.GetDay())
                 {
-                    Console.WriteLine($"День: {realization.GetDay()}, Название игры: {game.GetName()}, Жанр: {game.GetGenre()}, цена: {game.GetPrice()}, количество: {game.GetQuantity()}, выручка от игры: {game.GetPrice() * game.GetQuantity()}");
+                    Console.WriteLine($"День: {realization.GetDay()}, Название игры: {game.GetName()}, Жанр: {game.GetGenre()}" +
+                        $", цена: {game.GetPrice()}, количество: {game.GetQuantity()}," +
+                        $" выручка от игры: {game.GetPrice() * game.GetQuantity()}");
                     totalRevenue += game.GetQuantity() * game.GetPrice();
                 }
             }
@@ -70,7 +74,9 @@ namespace Lab2
                 var game = realization.GetGame();
                 if (genre == Convert.ToString(game.GetGenre()))
                 {
-                    Console.WriteLine($"День: {realization.GetDay()}, Название игры: {game.GetName()}, Жанр: {game.GetGenre()}, цена: {game.GetPrice()}, количество: {game.GetQuantity()}, выручка от игры: {game.GetPrice() * game.GetQuantity()}");
+                    Console.WriteLine($"День: {realization.GetDay()}, Название игры: {game.GetName()}, Жанр: {game.GetGenre()}" +
+                        $", цена: {game.GetPrice()}, количество: {game.GetQuantity()}" +
+                        $", выручка от игры: {game.GetPrice() * game.GetQuantity()}");
                     totalRevenue += game.GetQuantity() * game.GetPrice();
                 }
             }

@@ -18,3 +18,13 @@ C:\Users\Uxq\Source\Repos\MDK01.01\Lab3\lr3\obj\Debug\Lab3.csproj.CoreCompileInp
 C:\Users\Uxq\Source\Repos\MDK01.01\Lab3\lr3\obj\Debug\lr3.exe
 C:\Users\Uxq\Source\Repos\MDK01.01\Lab3\lr3\obj\Debug\lr3.pdb
 C:\Users\Uxq\Source\Repos\MDK01.01\Lab3\lr3\obj\Debug\Lab3.pharmacy.resources
+C:\Users\Uxq\source\repos\MDK0101\Lab3\lr3\bin\Debug\lr3.exe.config
+C:\Users\Uxq\source\repos\MDK0101\Lab3\lr3\bin\Debug\lr3.exe
+C:\Users\Uxq\source\repos\MDK0101\Lab3\lr3\bin\Debug\lr3.pdb
+C:\Users\Uxq\source\repos\MDK0101\Lab3\lr3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\Uxq\source\repos\MDK0101\Lab3\lr3\obj\Debug\Lab3.pharmacy.resources
+C:\Users\Uxq\source\repos\MDK0101\Lab3\lr3\obj\Debug\lr3.Properties.Resources.resources
+C:\Users\Uxq\source\repos\MDK0101\Lab3\lr3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\Uxq\source\repos\MDK0101\Lab3\lr3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Uxq\source\repos\MDK0101\Lab3\lr3\obj\Debug\lr3.exe
+C:\Users\Uxq\source\repos\MDK0101\Lab3\lr3\obj\Debug\lr3.pdb
