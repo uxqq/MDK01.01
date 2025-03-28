@@ -1,0 +1,10 @@
+C:\Users\Uxq\Desktop\MDK0101-master\LR3\lr3\bin\Debug\lr3.exe.config
+C:\Users\Uxq\Desktop\MDK0101-master\LR3\lr3\bin\Debug\lr3.exe
+C:\Users\Uxq\Desktop\MDK0101-master\LR3\lr3\bin\Debug\lr3.pdb
+C:\Users\Uxq\Desktop\MDK0101-master\LR3\lr3\obj\Debug\lr3.csproj.AssemblyReference.cache
+C:\Users\Uxq\Desktop\MDK0101-master\LR3\lr3\obj\Debug\lr3.Form1.resources
+C:\Users\Uxq\Desktop\MDK0101-master\LR3\lr3\obj\Debug\lr3.Properties.Resources.resources
+C:\Users\Uxq\Desktop\MDK0101-master\LR3\lr3\obj\Debug\lr3.csproj.GenerateResource.cache
+C:\Users\Uxq\Desktop\MDK0101-master\LR3\lr3\obj\Debug\lr3.csproj.CoreCompileInputs.cache
+C:\Users\Uxq\Desktop\MDK0101-master\LR3\lr3\obj\Debug\lr3.exe
+C:\Users\Uxq\Desktop\MDK0101-master\LR3\lr3\obj\Debug\lr3.pdb
